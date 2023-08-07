@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TRASHUX/K1LDDDDD/main
 
 print("")
 print("Script: W33D")
-print("Version: 1.0")
+print("Version: 3.0")
 print("Prefix (.)")
 print("")
 print("-> kill all/others/me OR anyone's display/username <-")
