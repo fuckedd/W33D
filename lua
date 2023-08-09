@@ -23,6 +23,8 @@ print("> show names true/false")
 print("> brightness true/false")
 print("> earape true/false")
 print("> shoot")
+print("> exit")
+print("> rejoin")
 print("> serverhop")
 print("")
 
