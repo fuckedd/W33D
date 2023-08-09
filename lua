@@ -23,3 +23,9 @@ print("> earape true/false")
 print("> shoot")
 print("> serverhop")
 print("")
+
+while true do
+    wait()
+game:GetService("Workspace").PlrManager.Announcements.Value = "The Test [Alpha]"
+end
+
