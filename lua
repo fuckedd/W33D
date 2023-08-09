@@ -5,6 +5,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TRASHUX/K1LDDDD/main/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TRASHUX/K1LDDDDD/main/lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TRASHUX/K1LDDDDDD/main/lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TRASHUX/K1LDDDDDDD/main/lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TRASHUX/K1LDDDDDDDD/main/lua"))()
 
 print("")
 print("> Script: W33D")
