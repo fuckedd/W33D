@@ -41,3 +41,16 @@ while true do
 game:GetService("Workspace").PlrManager.Announcements.Value = "The Test [Alpha]"
 end
 
+local teleportService = game:GetService("TeleportService")
+local desiredPlaceId = 10558210932 -- Replace with the desired PlaceID
+
+local function teleportToDesiredPlace()
+    local currentPlaceId = game.PlaceId
+    if currentPlaceId ~= desiredPlaceId then
+        teleportService:Teleport(desiredPlaceId)
+    end
+end
+
+teleportToDesiredPlace()
+
+
