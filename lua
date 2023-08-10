@@ -27,8 +27,8 @@ print("> earape true/false")
 print("> shoot = shoots gun")
 print("")
 print("> spectate")
-print("> rejoin")
-print("> serverhop")
+print("> rejoin/rj")
+print("> serverhop/shop")
 print("")
 
 while true do
